@@ -1,0 +1,11 @@
+{
+  "garp_window_s": 10.0,
+  "garp_rate_threshold": 5,
+  "garp_breadth_threshold": 4,
+  "flap_window_s": 30.0,
+  "flap_count": 3,
+  "stable_threshold_s": 300.0,
+  "trusted_bindings": {
+    "10.0.0.1": "cc:cc:cc:00:00:0f"
+  }
+}
